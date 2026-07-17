@@ -1,0 +1,10 @@
+{
+  "projectId": "comunidade-ictus",
+  "appId": "1:280936198247:web:9369483882fa8eeffd4ac2",
+  "apiKey": "SUA_API_KEY",
+  "authDomain": "comunidade-ictus.firebaseapp.com",
+  "firestoreDatabaseId": "(default)",
+  "storageBucket": "comunidade-ictus.firebasestorage.app",
+  "messagingSenderId": "280936198247",
+  "measurementId": ""
+}
